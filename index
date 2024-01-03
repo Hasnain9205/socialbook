@@ -394,9 +394,18 @@
             </div>
 
             <div class="footer">
+
+                <ol>
+                    <li>Git<li>
+                        <li>Github</li>
+                        <li>socialbiik</li>
+                    
+                    </ol>
+
                 <p>Copy right 2023-Easy Web Tutorials Youtube Channel</p>
 
 </div>
+
 <script src="script.js"></script>
 
 
